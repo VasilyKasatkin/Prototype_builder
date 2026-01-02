@@ -1,0 +1,3 @@
+[submodule "shared/ander-admin"]
+	path = shared/ander-admin
+	url = https://github.com/ai-ander/ander-web-admin.git
